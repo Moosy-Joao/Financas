@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="FinancasPessoais.App/FinancasPessoais.App.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="FinancasPessoais.Application/FinancasPessoais.Application.csproj" />
+  <Project Path="FinancasPessoais.Domain/FinancasPessoais.Domain.csproj" />
+  <Project Path="FinancasPessoais.Infrastructure/FinancasPessoais.Infrastructure.csproj" />
+  <Project Path="FinancasPessoais.Migrations/FinancasPessoais.Migrations.csproj" />
+  <Project Path="FinancasPessoais.Tests/FinancasPessoais.Tests.csproj" />
+</Solution>

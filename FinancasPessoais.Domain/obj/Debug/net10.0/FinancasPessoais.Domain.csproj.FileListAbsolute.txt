@@ -1,0 +1,11 @@
+E:\Projetos\FinancasPessoais\FinancasPessoais.Domain\bin\Debug\net10.0\FinancasPessoais.Domain.deps.json
+E:\Projetos\FinancasPessoais\FinancasPessoais.Domain\bin\Debug\net10.0\FinancasPessoais.Domain.dll
+E:\Projetos\FinancasPessoais\FinancasPessoais.Domain\bin\Debug\net10.0\FinancasPessoais.Domain.pdb
+E:\Projetos\FinancasPessoais\FinancasPessoais.Domain\obj\Debug\net10.0\FinancasPessoais.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\FinancasPessoais\FinancasPessoais.Domain\obj\Debug\net10.0\FinancasPessoais.Domain.AssemblyInfoInputs.cache
+E:\Projetos\FinancasPessoais\FinancasPessoais.Domain\obj\Debug\net10.0\FinancasPessoais.Domain.AssemblyInfo.cs
+E:\Projetos\FinancasPessoais\FinancasPessoais.Domain\obj\Debug\net10.0\FinancasPessoais.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\FinancasPessoais\FinancasPessoais.Domain\obj\Debug\net10.0\FinancasPessoais.Domain.dll
+E:\Projetos\FinancasPessoais\FinancasPessoais.Domain\obj\Debug\net10.0\refint\FinancasPessoais.Domain.dll
+E:\Projetos\FinancasPessoais\FinancasPessoais.Domain\obj\Debug\net10.0\FinancasPessoais.Domain.pdb
+E:\Projetos\FinancasPessoais\FinancasPessoais.Domain\obj\Debug\net10.0\ref\FinancasPessoais.Domain.dll

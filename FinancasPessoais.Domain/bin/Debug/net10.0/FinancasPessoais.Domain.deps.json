@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FinancasPessoais.Domain/1.0.0": {
+        "runtime": {
+          "FinancasPessoais.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinancasPessoais.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,1 @@
+E:\Projetos\FinancasPessoais\FinancasPessoais.App\FinancasPessoais.App.csproj;x64
